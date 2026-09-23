@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "16fe8fabaa0e281bec5e9c54",
+  "owner": "jqjjrkyq",
+  "repo": "page-cceb0b7eb7d889525ad15494",
+  "title": "小鸡云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cceb0b7eb7d889525ad15494",
+      "a": "小鸡云",
+      "b": "2027官方最新地址导航",
+      "entity": "小鸡云",
+      "brand": "小鸡云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b565e9e95d4d7ebf7c1ce02ff205ed8e990dd717415e92ea76c88462f9754195",
+      "content": {
+        "primary_entity": "小鸡云",
+        "keyword1": "小鸡云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，Windows、macOS、Android、iOS 与路由器均有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按订阅指引完成首次配置。",
+          "AI_CLOSING_TITLE": "即刻开始小鸡云加速体验",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线，团队版每月 1000GB、支持 20 台设备，可按设备数量与流量需求挑选。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个角度挑选套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月支持 3 台设备；旗舰版 300GB/月支持 5 台并含专线；团队版 1000GB/月支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑与路由器可分别选择对应客户端，按订阅配置文件完成导入。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "客户端适配范围",
+          "AI_FEATURE_TITLE_3": "付费周期参考",
+          "AI_GUIDE_INTRO": "挑选服务、了解适配要求、按客户端文档配置订阅三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "小鸡云提供多种海外加速套餐，按每月流量与同时在线设备数量区分，支持流媒体解锁与专线游戏优化，可根据设备类型与使用场景选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "按设备选套餐，按步骤配订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人日常，旗舰版适合流媒体与游戏，团队版适合多人共享高带宽。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，查看流媒体或游戏加速的适配要求。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅配置，连接节点后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小鸡云海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小鸡云套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、同时在线设备数和节点类型。基础版 100GB/3 台，旗舰版 300GB/5 台并含 IPLC 专线，团队版 1000GB/20 台且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数怎么理解？",
+          "AI_FAQ_ANSWER_2": "指同一时间可保持连接的设备数量。基础版 3 台、旗舰版 5 台、团队版 20 台，超出上限时部分设备可能无法同时连接，按需选择档位即可。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_ANSWER_3": "年付价格约为十个月月付金额。长期稳定使用选年付更省；短期试用或需求不确定时，先按月付体验再决定是否转年付。",
+          "AI_FAQ_QUESTION_4": "订阅后如何配置使用？",
+          "AI_FAQ_ANSWER_4": "订阅完成后按所用客户端的说明导入订阅信息，再连接节点即可。不同客户端界面不同，以对应客户端的配置文档为准，遇到问题可提交工单。",
+          "AI_FAQ_QUESTION_5": "流量用超了会怎样？",
+          "AI_FAQ_ANSWER_5": "套餐按月提供固定流量，超出后当月连接可能受限。可等下月重置，或改用更高档位套餐；日常用量较大时建议直接选旗舰版或团队版。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mmllk.cn",
+    "host": "mmllk.cn"
+  },
+  "file_hashes": {
+    "index.html": "f93cc7bed28733faee41589589c21804f2d5d0fe66a8f5957f2cd4df161b03cb",
+    "sitemap.xml": "d5a1a507457e83d9aa9c20a09df5d090cdf40a3e96ad39b323d593a60d5e1712",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e81f0c5996632a2d74f01b6180eb1a64c0c3f6d2d7332ce868fa7407657476f5",
+    "robots.txt": "808a55a0a32774eb324a6ef2e54bdaf3db49f9394f4e80329f60d3851ac42341",
+    "b8c1f2a4690f3313e51ff0e652511b46.txt": "e74a018ea103c36ad9403ba2b60b10423d97fc4ca61d2c915ed38272a0c67350"
+  },
+  "revision": "8ae9ad4e1377cf7e42335c8a190ad6c55725c11172ef8f1fc5369fecc6700922"
+}
